@@ -1,0 +1,7 @@
+{
+  "sandbox" : {
+    "name" : "GeoLocationTesting",
+    "identifier" : "io.mxapps.geolocationtesting-sandbox",
+    "url" : "https://geolocationtesting-sandbox.mxapps.io"
+  }
+}

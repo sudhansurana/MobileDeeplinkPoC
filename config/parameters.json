@@ -1,0 +1,31 @@
+{
+  "url" : "https://geolocationtesting-sandbox.mxapps.io",
+  "identifier" : "com.tieniber.ddns.net.giggit",
+  "version" : "0.0.2",
+  "name" : "Mx Testing",
+  "description" : null,
+  "iosEnabled" : true,
+  "androidEnabled" : true,
+  "persistentSession": {
+	  "enabled":true,
+	  "forceSecurity":false
+	},
+  "enableOffline" : false,
+  "permissions" : {
+    "calendar" : true,
+    "camera" : true,
+    "photoLibrary" : true,
+    "contacts" : true,
+    "microphone" : true,
+    "geoLocation" : true,
+    "push" : true,
+    "branch" : false,
+    "universalLinks" : true
+  },
+  "theme" : {
+    "background" : "#0595DB",
+    "text" : "#ffffff",
+    "button" : "#76CA02",
+    "buttonCaption" : "#ffffff"
+  }
+}
